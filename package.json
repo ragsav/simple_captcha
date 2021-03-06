@@ -1,5 +1,5 @@
 {
-  "name": "simple_recaptcha",
+  "name": "simple_captcha",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
